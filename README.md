@@ -1,2 +1,2 @@
-# the_odin_project
-Learning HTML, CSS and Javascript
+# Odin recipes
+Learning HTML, CSS and Javascript with The Odin Project
